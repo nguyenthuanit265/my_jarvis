@@ -1,3 +1,4 @@
+```
 lib/
 ├── modules/
 │   ├── auth/
@@ -39,3 +40,4 @@ lib/
 │       │   ├── public_prompt_screen.dart
 │       │   └── private_prompt_screen.dart
 │       └── ...
+```
